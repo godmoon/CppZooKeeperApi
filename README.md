@@ -1,7 +1,7 @@
 # CppZooKeeperApi
 A C++ ZooKeeper API wrapper
 
-# USEAGE(Linux)
+# Usage(Linux)
 git clone https://github.com/godmoon/CppZooKeeperApi<br>
 cd CppZooKeeperApi<br>
 chmod +x ./make_dep.sh<br>
